@@ -1,0 +1,6 @@
+com/actionfigures/AFApplication.class
+com/actionfigures/controller/UserController.class
+com/actionfigures/service/UserServiceImpl.class
+com/actionfigures/service/UserService.class
+com/actionfigures/model/User.class
+com/actionfigures/repository/UserRepository.class
