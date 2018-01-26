@@ -1,4 +1,4 @@
-# SpringBootRESTfulTutorial
+# SpringBootRESTfulSetup
 
 mvn clean
 mvn clean install
